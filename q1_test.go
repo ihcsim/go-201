@@ -1,4 +1,4 @@
-package lendesk
+package main
 
 import "testing"
 
