@@ -6,4 +6,13 @@ Some Go programming exercises.
 * q3: Refer this [sqlfiddle](http://sqlfiddle.com/#!9/c14d2/4) for executable example.
 * q4: An application that reads a CSV file.
 
-To run the test: `go test -v -cover`
+To run the test: 
+```sh
+$ go test -v -cover
+```
+
+To run the q4 `main` application:
+```sh
+$ go build -v
+$ ./go-201 q4.data
+```
