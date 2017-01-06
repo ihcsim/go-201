@@ -1,4 +1,7 @@
 # go-201
+
+[![Codeship Status for ihcsim/go-201](https://app.codeship.com/projects/2b6d3dd0-b662-0134-83f3-3e2dd07e05d2/status?branch=master)](https://app.codeship.com/projects/194343)
+
 Some Go programming exercises.
 
 * q1: A recursive function that outputs a slice of integers as an indented string of XML.
